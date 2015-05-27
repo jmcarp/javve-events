@@ -11,5 +11,8 @@
     "component-event": "0.1.4",
     "to-array": "git://github.com/slifszyc/to-array"
   },
-  "twitter": "@javve"
+  "twitter": "@javve",
+  "browser": {
+    "event": "component-event"
+  }
 }
